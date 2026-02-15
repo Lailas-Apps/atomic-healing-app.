@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/atomic-healing-app../static/js/main.ece5031e.js",
-    "index.html": "/atomic-healing-app../index.html",
-    "main.ece5031e.js.map": "/atomic-healing-app../static/js/main.ece5031e.js.map"
+    "main.js": "/atomic-healing-app./static/js/main.ece5031e.js",
+    "index.html": "/atomic-healing-app./index.html",
+    "main.ece5031e.js.map": "/atomic-healing-app./static/js/main.ece5031e.js.map"
   },
   "entrypoints": [
     "static/js/main.ece5031e.js"
