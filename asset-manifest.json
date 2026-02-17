@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/atomic-silence-app/static/js/main.eff27757.js",
+    "main.js": "/atomic-silence-app/static/js/main.e80acdaf.js",
     "index.html": "/atomic-silence-app/index.html",
-    "main.eff27757.js.map": "/atomic-silence-app/static/js/main.eff27757.js.map"
+    "main.e80acdaf.js.map": "/atomic-silence-app/static/js/main.e80acdaf.js.map"
   },
   "entrypoints": [
-    "static/js/main.eff27757.js"
+    "static/js/main.e80acdaf.js"
   ]
 }
